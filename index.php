@@ -6,7 +6,7 @@
     <title>Git Version Control</title>
 </head>
 <body>
-    <header<h1>Git VC</h1>></header>
-<h1>PAL Lancer WP</h1>
+    <header><h1>Git VC</h1></header>
+<h1>PALLancer WP</h1>
 </body>
 </html>
